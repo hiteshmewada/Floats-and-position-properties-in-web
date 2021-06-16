@@ -1,0 +1,50 @@
+body {
+    font-size: 15pt;
+    margin: 0 auto;
+    max-width: 900px;
+    width: 90%;
+}
+#use{
+  float: right;
+  margin: 15px ;
+  width: 150px ;
+  height: 150px;
+  border-radius: 5px;
+  background-color: lightblue;
+  padding: 0.5em;
+}
+.resume{
+  background-color: lightskyblue;
+  padding: 15px;
+  color: white;
+}
+.para{
+  clear: right;
+}
+.boxset,.box{
+  border-radius: 6px;
+}
+.boxset{
+  background-color: whitesmoke;
+}
+.box{
+  background: #5FA044;
+  position: relative ;
+  height: 80px;
+  width: 80px;
+  text-align: center ;
+  margin: 20px;
+}
+.box1{
+  top: 10px;
+  
+}
+.box2{
+  right: 10px;
+}
+.box3{
+  left: 10px;
+}
+.box4{
+  bottom: 10px;
+}
